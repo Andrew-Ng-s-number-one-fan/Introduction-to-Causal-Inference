@@ -7,6 +7,6 @@
 
 ## Lecture Videos and Slides (Fall 2019)
 
-|#|Content|Topics|Lectures|Reading Group Paper|
+|#|Topics|Lectures|Reading Group Paper|
 |:---:|:---:|:---:|:---:|:---:|
-|Week 1|Motivation<br>Course Preview<br>Course Information|[Video 01](https://www.youtube.com/watch?v=CfzO4IEMVUk&list=PLoazKTcS0Rzb6bb9L508cyJ1z-U9iWkA0&index=1)<br>[Slides](https://www.bradyneal.com/slides/1%20-%20A%20Brief%20Introduction%20to%20Causal%20Inference.pdf)<br>[Info](https://www.youtube.com/watch?v=xj-tzrm5Src&list=PLoazKTcS0Rzb6bb9L508cyJ1z-U9iWkA0&index=6)|None|
+|Week 1|Motivation<br>Course Preview<br>Course Information|[[Video 01](https://www.youtube.com/watch?v=CfzO4IEMVUk)]<br>[[Slides](https://www.bradyneal.com/slides/1%20-%20A%20Brief%20Introduction%20to%20Causal%20Inference.pdf)]<br>[[Info](https://www.youtube.com/watch?v=xj-tzrm5Src&list=PLoazKTcS0Rzb6bb9L508cyJ1z-U9iWkA0&index=6)]|None|
