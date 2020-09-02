@@ -5,7 +5,7 @@
 - Course Website: https://www.bradyneal.com/causal-inference-course
 - Textbook: https://www.bradyneal.com/Introduction_to_Causal_Inference-Sep1_2020-Neal.pdf
 
-## Lecture Videos and Slides (Fall 2019)
+## Lecture Videos and Slides (Fall 2020)
 
 |#|Topics|Lectures|Reading Group Paper|
 |:---:|:---:|:---:|:---:|
