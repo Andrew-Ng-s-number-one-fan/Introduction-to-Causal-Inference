@@ -1,5 +1,4 @@
 # Introduction to Causal Inference
-*A course offered by Brady Neal and Yoshua Bengio*
 
 - Instructor: [Brady Neal](https://www.bradyneal.com/aboutme)
 - Course Website: https://www.bradyneal.com/causal-inference-course
