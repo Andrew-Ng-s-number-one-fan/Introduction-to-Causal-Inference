@@ -13,4 +13,5 @@
 |Week 3|Graphical Models<br>Backdoor Adjustment<br>Structural Causal Models|||
 |Week 4|Randomized Experiments<br>Frontdoor Adjustment<br>*do*-calculus<br>General Identification|||
 |Week 5|Estimation<br>Conditional Average Treatment Effects|||
-|Week 6|
+|Week 6|Unobserved Confounding,<br>Bounds, and<br>Sensitivity Analysis|||
+|Week 7|Instrumental Variables<br>Regression Discontinuity<br>Difference-in-Differences<br>Synthetic Control|||
