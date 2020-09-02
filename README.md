@@ -3,7 +3,7 @@
 
 - Instructor: [Brady Neal](https://www.bradyneal.com/aboutme)
 - Course Website: https://www.bradyneal.com/causal-inference-course
-- Textbook:
+- Textbook: https://www.bradyneal.com/Introduction_to_Causal_Inference-Sep1_2020-Neal.pdf
 
 ## Lecture Videos and Slides (Fall 2019)
 
