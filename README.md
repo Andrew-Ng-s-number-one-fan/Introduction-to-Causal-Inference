@@ -8,7 +8,7 @@
 
 |#|Topics|Lectures|Reading Group Paper|
 |:---:|:---:|:---:|:---:|
-|Week 1|Motivation<br>Course Preview<br>Course Information|[Video](https://www.youtube.com/watch?v=CfzO4IEMVUk)<br>[Slides](https://www.bradyneal.com/slides/1%20-%20A%20Brief%20Introduction%20to%20Causal%20Inference.pdf)<br>[Info](https://www.youtube.com/watch?v=xj-tzrm5Src&list=PLoazKTcS0Rzb6bb9L508cyJ1z-U9iWkA0&index=6)|None|
+|Week 1|Motivation<br>Course Preview<br>Course Information|[Video](https://www.youtube.com/watch?v=CfzO4IEMVUk&list=PLoazKTcS0Rzb6bb9L508cyJ1z-U9iWkA0)<br>[Slides](https://www.bradyneal.com/slides/1%20-%20A%20Brief%20Introduction%20to%20Causal%20Inference.pdf)<br>[Info](https://www.youtube.com/watch?v=xj-tzrm5Src&list=PLoazKTcS0Rzb6bb9L508cyJ1z-U9iWkA0&index=6)|None|
 |Week 2|Potential Outcomes<br>A Complete Example with Estimation|||
 |Week 3|Graphical Models<br>Backdoor Adjustment<br>Structural Causal Models|||
 |Week 4|Randomized Experiments<br>Frontdoor Adjustment<br>*do*-calculus<br>General Identification|||
